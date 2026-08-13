@@ -75,28 +75,14 @@ To prevent AI-generated assets from looking like a mismatched "pile of random st
 
 Discernment is proven by what is **rejected**, not just what is kept:
 
-### 1. Sci-Fi Volumetric Core (`01_hero_texture_rejected_1.png`)
+### 1. Sci-Fi Volumetric Core (Discarded Candidate)
 - **Reason for Rejection**: Excessive volumetric core highlight (`>850 nits`) destroys body copy text contrast (`<2.8:1` contrast ratio). Projects a junior "stock template" aesthetic rather than serious developer rigor.
 
-### 2. Light-Mode Stock Ribbon (`01_hero_texture_rejected_2.png`)
+### 2. Light-Mode Stock Ribbon (Discarded Candidate)
 - **Reason for Rejection**: Off-brand color gamut breach. Bright white canvas violates the `#0B0F19` dark mode theme, causing severe jarring contrast when navigating between pages.
 
-### 3. Saturated Neon Magenta Node (`07_delegation_texture_rejected.png`)
+### 3. Saturated Neon Magenta Node (Discarded Candidate)
 - **Reason for Rejection**: Visual set drift. High-saturation hot pink (`#FF007F`) breaches the visual kit's cyan/indigo color palette, breaking visual rhythm across the portfolio.
-
----
-
-## 🛠️ Asset Pipeline & Local Execution
-
-All assets can be programmatically re-built or updated using the Python PIL rendering pipeline:
-
-```bash
-# Navigate to project directory
-cd f:\Fly-Rank-AI\FL-03
-
-# Run the asset builder script
-python create_portfolio_assets.py
-```
 
 ---
 
@@ -114,6 +100,7 @@ python create_portfolio_assets.py
 
 - 📄 **Main Deliverable**: [`curate_your_images.md`](file:///f:/Fly-Rank-AI/FL-03/curate_your_images.md)
 - 🖼️ **Image Assets**: [`assets/`](file:///f:/Fly-Rank-AI/FL-03/assets/)
+- 🌐 **GitHub Repository**: [`GAF-Week-3-Kill-your-darlings-Curate-Your-Images`](https://github.com/CoderGUY47/GAF-Week-3-Kill-your-darlings-Curate-Your-Images.git)
 
 ---
 *Maintained by Software Engineering & AI Intern | Track: General AI Fluency*
