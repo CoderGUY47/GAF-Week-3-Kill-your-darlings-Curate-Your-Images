@@ -17,8 +17,6 @@
 f:\Fly-Rank-AI\FL-03\
 ├── README.md                      # Professional Repository Documentation (You are here)
 ├── curate_your_images.md          # Primary Graded Deliverable Document
-├── create_portfolio_assets.py     # Python Asset Generator (PIL rendering pipeline)
-├── render_hd_keepers.py           # HD Visual Asset Generator (Glassmorphic 3D renderer)
 └── assets/                        # Complete Curated Keeper Image Set (9 Assets)
     ├── 01_hero_texture_keeper.png           # Connective Tissue: Dark Slate Glassmorphic Grid
     ├── 02_real_proof_hud_capture.png        # Real Work Capture: Instant Proof & Metrics HUD
@@ -116,7 +114,6 @@ python create_portfolio_assets.py
 
 - 📄 **Main Deliverable**: [`curate_your_images.md`](file:///f:/Fly-Rank-AI/FL-03/curate_your_images.md)
 - 🖼️ **Image Assets**: [`assets/`](file:///f:/Fly-Rank-AI/FL-03/assets/)
-- ⚙️ **Asset Builder**: [`create_portfolio_assets.py`](file:///f:/Fly-Rank-AI/FL-03/create_portfolio_assets.py)
 
 ---
 *Maintained by Software Engineering & AI Intern | Track: General AI Fluency*
