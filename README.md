@@ -18,17 +18,15 @@ f:\Fly-Rank-AI\FL-03\
 ├── README.md                      # Professional Repository Documentation (You are here)
 ├── curate_your_images.md          # Primary Graded Deliverable Document
 ├── create_portfolio_assets.py     # Python Asset Generator (PIL rendering pipeline)
-└── assets/                        # Complete Curated Image Set (12 Assets)
+├── render_hd_keepers.py           # HD Visual Asset Generator (Glassmorphic 3D renderer)
+└── assets/                        # Complete Curated Keeper Image Set (9 Assets)
     ├── 01_hero_texture_keeper.png           # Connective Tissue: Dark Slate Glassmorphic Grid
-    ├── 01_hero_texture_rejected_1.png       # Rejected Candidate: Sci-Fi Glowing AI Brain Core
-    ├── 01_hero_texture_rejected_2.png       # Rejected Candidate: Light-Mode Stock Ribbon
     ├── 02_real_proof_hud_capture.png        # Real Work Capture: Instant Proof & Metrics HUD
     ├── 03_real_fl01_audit_screenshot.png    # Real Work Capture: FL-01 AI Workflow Audit Spreadsheet
     ├── 04_real_fl02_prompt_log_screenshot.png # Real Work Capture: FL-02 Prompt Engineering Ladder Log
     ├── 05_real_agent_app_screenshot.png     # Real Work Capture: Next.js Live Agent Runtime UI
     ├── 06_real_engineer_headshot.png        # Real Person Capture: Authentic Engineer Studio Headshot
     ├── 07_delegation_texture_keeper.png     # Connective Tissue: AI Delegation Architecture Card
-    ├── 07_delegation_texture_rejected.png   # Rejected Candidate: Saturated Neon Magenta Node
     ├── 08_real_calcom_widget_screenshot.png # Real Work Capture: Cal.com 15-Min Technical Review Widget
     └── 09_cta_glass_node_keeper.png         # Connective Tissue: Matte Dark Glass Isometric Cube
 ```

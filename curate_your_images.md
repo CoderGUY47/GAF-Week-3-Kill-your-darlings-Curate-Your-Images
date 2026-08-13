@@ -92,8 +92,7 @@ Result: Perfect visual kit alignment. Zero clutter, soft ambient lighting, high 
 
 Discernment is demonstrated by what you **reject**, not just what you keep. Below are 1-to-2 line technical evaluations of AI-generated images that were discarded during curation.
 
-### Rejection Analysis 1: Glowing Sci-Fi Core (`01_hero_texture_rejected_1.png`)
-![Rejected Sci-Fi Core](file:///f:/Fly-Rank-AI/FL-03/assets/01_hero_texture_rejected_1.png)
+### Rejection Analysis 1: Glowing Sci-Fi Core (Discarded Candidate)
 
 > [!WARNING]
 > **Rejection Note (Graded Discernment):**  
@@ -101,8 +100,7 @@ Discernment is demonstrated by what you **reject**, not just what you keep. Belo
 
 ---
 
-### Rejection Analysis 2: Light-Mode Saturated Stock Ribbon (`01_hero_texture_rejected_2.png`)
-![Rejected Light Mode Ribbon](file:///f:/Fly-Rank-AI/FL-03/assets/01_hero_texture_rejected_2.png)
+### Rejection Analysis 2: Light-Mode Saturated Stock Ribbon (Discarded Candidate)
 
 > [!WARNING]
 > **Rejection Note (Graded Discernment):**  
@@ -110,8 +108,7 @@ Discernment is demonstrated by what you **reject**, not just what you keep. Belo
 
 ---
 
-### Rejection Analysis 3: Saturated Neon Magenta Delegation Node (`07_delegation_texture_rejected.png`)
-![Rejected Neon Magenta Node](file:///f:/Fly-Rank-AI/FL-03/assets/07_delegation_texture_rejected.png)
+### Rejection Analysis 3: Saturated Neon Magenta Delegation Node (Discarded Candidate)
 
 > [!WARNING]
 > **Rejection Note (Graded Discernment):**  
